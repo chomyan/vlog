@@ -1,2 +1,2 @@
 # vlog
-Social network for bloggers
+Social network for bloggers.
